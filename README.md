@@ -16,7 +16,7 @@ Actualmente soy Ing. de Sistemas Informaticos y laboro como docente atendiendo a
 ## 💼 Información Laboral:
 
 * **Clases que Imparto:**
-  * **Desarrollo:** Bases de Datos, Desarrollo de Aplicaciones.
+  * **Desarrollo:** Bases de Datos, Desarrollo de Aplicaciones de software.
   * **Infraestructura:** Redes Informáticas, Gestión de Servicios de Red.
   * **Seguridad:** Seguridad Informática.
 
