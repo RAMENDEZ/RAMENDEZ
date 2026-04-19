@@ -9,7 +9,7 @@ Actualmente soy Ing. de Sistemas Informaticos y laboro como docente atendiendo a
 * **Herramientas:** Git, GitHub, VS Code, MySQL Workbench, XAMPP.
 
 * **Clases que Imparto:**
-* *Bases de Datos,
+* **Bases de Datos,
 * Desarrollo de Aplicaciones de Software,
 * Seguridad Informática,
 * Redes Informáticas,
