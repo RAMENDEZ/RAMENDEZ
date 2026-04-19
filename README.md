@@ -8,7 +8,7 @@ Actualmente soy Ing. de Sistemas Informaticos y laboro como docente atendiendo a
 * **FrontEnd:** HTML5, CSS3.
 * **Herramientas:** Git, GitHub, VS Code, MySQL Workbench, XAMPP.
 
-* ## 📂 Proyectos destacados
+## 📂 Proyectos destacados
 *  **Sistema de ventas de productos para una ferreteria**
 *  **Sistema de inventario de un almacen**
 *  **Sistema de ventas para una zapateria**
