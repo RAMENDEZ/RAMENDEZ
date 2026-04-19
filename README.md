@@ -1,5 +1,3 @@
-<img width="400" height="400" alt="perfil" src="https://github.com/user-attachments/assets/00a2e45a-ec40-40d5-ba23-395bebb20212" />
-
 # ¡Hola! Soy Roberto Abraham Méndez 👋
 
 ## 🚀 Sobre mí
