@@ -13,6 +13,9 @@ Actualmente soy Ing. de Sistemas Informaticos y laboro como docente atendiendo a
 *  **Sistema de inventario de un almacen**
 *  **Sistema de ventas para una zapateria**
 
+*  ### 🚀 Últimos Proyectos
+   * [El Rincón del Juego - Landing Page de Gaming](https://github.com/RAMENDEZ/Desarrollo-Web-Basico)
+
 ## 💼 Información Laboral:
 
 * **Clases que Imparto:**
